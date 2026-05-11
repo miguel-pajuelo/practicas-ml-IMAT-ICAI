@@ -1,0 +1,13 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-7-lda-miguel-pajuelo/src
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (3):
+----------------------------------------
+  LDA_model.py                                   Script Python              6.1 KB
+  Lab2_6_CV.py                                   Script Python              3.4 KB
+  __init__.py                                    Script Python              0 B
+
+============================================================

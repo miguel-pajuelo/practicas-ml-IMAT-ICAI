@@ -1,0 +1,12 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-3-linear-regression-miguel-pajuelo/notebook
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (2):
+----------------------------------------
+  Lab_2_3_LinearRegression.ipynb                 Notebook Jupyter           7.2 KB
+  __init__.py                                    Script Python              0 B
+
+============================================================

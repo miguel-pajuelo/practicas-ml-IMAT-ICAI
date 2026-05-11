@@ -1,0 +1,12 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-4-linear-regression-ii-miguel-pajuelo/notebook
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (2):
+----------------------------------------
+  Lab_2_4_LR2.ipynb                              Notebook Jupyter           1.2 MB
+  __init__.py                                    Script Python              0 B
+
+============================================================

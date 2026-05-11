@@ -1,0 +1,12 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-6-cross-validation-miguel-pajuelo/tests
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (2):
+----------------------------------------
+  __init__.py                                    Script Python              0 B
+  test_cross_validation.py                       Script Python              1.1 KB
+
+============================================================

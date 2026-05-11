@@ -1,0 +1,12 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-8-decision-tree-miguel-pajuelo/data
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (2):
+----------------------------------------
+  Carseat.csv                                    Archivo de datos CSV       19.0 KB
+  Hitters.csv                                    Archivo de datos CSV       24.7 KB
+
+============================================================

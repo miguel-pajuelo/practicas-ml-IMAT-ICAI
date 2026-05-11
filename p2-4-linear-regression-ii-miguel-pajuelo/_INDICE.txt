@@ -1,0 +1,20 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-4-linear-regression-ii-miguel-pajuelo
+Generado: 10/05/2026 10:52
+============================================================
+
+SUBCARPETAS (5):
+----------------------------------------
+  [.vscode/]  →  0 subcarpeta(s), 1 archivo(s) en total
+  [data/]  →  0 subcarpeta(s), 1 archivo(s) en total
+  [notebook/]  →  0 subcarpeta(s), 2 archivo(s) en total
+  [src/]  →  0 subcarpeta(s), 2 archivo(s) en total
+  [tests/]  →  0 subcarpeta(s), 2 archivo(s) en total
+
+ARCHIVOS (2):
+----------------------------------------
+  .gitignore                                     Archivo                    54 B
+  README.md                                      Documento Markdown         1.1 KB
+
+============================================================

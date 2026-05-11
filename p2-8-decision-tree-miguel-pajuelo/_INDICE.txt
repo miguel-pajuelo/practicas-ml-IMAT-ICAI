@@ -1,0 +1,18 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-8-decision-tree-miguel-pajuelo
+Generado: 10/05/2026 10:52
+============================================================
+
+SUBCARPETAS (2):
+----------------------------------------
+  [data/]  →  0 subcarpeta(s), 2 archivo(s) en total
+  [notebook/]  →  0 subcarpeta(s), 2 archivo(s) en total
+
+ARCHIVOS (3):
+----------------------------------------
+  .gitignore                                     Archivo                    46 B
+  README.md                                      Documento Markdown         1.8 KB
+  pre_commit.sh                                  Script Shell               83 B
+
+============================================================

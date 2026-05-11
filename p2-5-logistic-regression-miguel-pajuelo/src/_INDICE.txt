@@ -1,0 +1,13 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-5-logistic-regression-miguel-pajuelo/src
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (3):
+----------------------------------------
+  Lab2_5_LogisticRegression_and_regularization.py  Script Python              13.5 KB
+  __init__.py                                    Script Python              0 B
+  utils.py                                       Script Python              7.8 KB
+
+============================================================

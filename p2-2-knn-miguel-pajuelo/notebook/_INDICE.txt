@@ -1,0 +1,14 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-2-knn-miguel-pajuelo/notebook
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (4):
+----------------------------------------
+  Lab_2_2_kNN.ipynb                              Notebook Jupyter           415.2 KB
+  __init__.py                                    Script Python              0 B
+  test.dat                                       Archivo                    8.6 KB
+  train.dat                                      Archivo                    33.9 KB
+
+============================================================

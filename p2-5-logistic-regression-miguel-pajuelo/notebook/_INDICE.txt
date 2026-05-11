@@ -1,0 +1,12 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-5-logistic-regression-miguel-pajuelo/notebook
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (2):
+----------------------------------------
+  Lab2_5_LogisticRegression_and_regularization.ipynb  Notebook Jupyter           1015.4 KB
+  __init__.py                                    Script Python              0 B
+
+============================================================

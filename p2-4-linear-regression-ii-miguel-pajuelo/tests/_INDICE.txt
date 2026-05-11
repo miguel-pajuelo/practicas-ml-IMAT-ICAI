@@ -1,0 +1,12 @@
+============================================================
+ÍNDICE DE CONTENIDOS
+Carpeta: MACHINE/p2-4-linear-regression-ii-miguel-pajuelo/tests
+Generado: 10/05/2026 10:52
+============================================================
+
+ARCHIVOS (2):
+----------------------------------------
+  __init__.py                                    Script Python              0 B
+  test_linear_regressor.py                       Script Python              1.8 KB
+
+============================================================
